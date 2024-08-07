@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "641348612101",
+    "project_id": "sipmle-rwud",
+    "storage_bucket": "sipmle-rwud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641348612101:android:764baffffc89e1c960ac6c",
+        "android_client_info": {
+          "package_name": "com.android.applicatio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkEJGre8kXHhKWXwZcw-s6jZ3-rqL7r10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641348612101:android:d616ccee1354123160ac6c",
+        "android_client_info": {
+          "package_name": "com.example.simple_rea"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkEJGre8kXHhKWXwZcw-s6jZ3-rqL7r10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
